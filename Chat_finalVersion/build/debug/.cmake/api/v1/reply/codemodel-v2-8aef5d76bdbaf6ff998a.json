@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Chat",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Chat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chat-Debug-bff0b37efa328fcc94fa.json",
+					"name" : "Chat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chat_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chat_autogen-Debug-7faf366203387094b0a5.json",
+					"name" : "Chat_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chat_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chat_autogen_timestamp_deps-Debug-afd8b661cd8056f6dfe6.json",
+					"name" : "Chat_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "translate_my_ru::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-translate_my_ru-Debug-2876bb29af63a6935182.json",
+					"name" : "translate_my_ru",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-translations-Debug-7d3387eb487184cff03d.json",
+					"name" : "translations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ACER/Documents/Projs/Chat_finalVersion/build/debug",
+		"source" : "C:/Users/ACER/Documents/Projs/Chat_finalVersion"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
